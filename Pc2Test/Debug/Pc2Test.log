@@ -1,0 +1,4 @@
+﻿  callback.cpp
+C:\Users\ran-j\source\repos\Pc2Test\Pc2Test\callback.cpp(88,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ran-j\source\repos\Pc2Test\Pc2Test\callback.cpp(90,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Pc2Test.vcxproj -> C:\Users\ran-j\source\repos\Pc2Test\Debug\Pc2Test.exe
